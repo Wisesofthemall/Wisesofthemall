@@ -8,6 +8,11 @@ GitHub: [https://github.com/Wisesofthemall](https://github.com/Wisesofthemall)
 
 ---
 
+## Status
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wisesofthemall&hide=contribs,prs)
+
+---
+
 ## Technical Skills
 **Front End**: React, NextJS, JavaScript, TypeScript, NodeJS, CSS, styled-components, Redux, C#, Python
 
