@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **foxxydieujuste@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://github.com/Wisesofthemall/AbouMe.md/blob/main/Resume.md)
+- 📄 Know about my experiences [Resume](https://lovinsonresume.web.app/Lovinson%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
