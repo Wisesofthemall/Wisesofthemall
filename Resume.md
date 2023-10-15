@@ -1,67 +1,85 @@
-# Lovinson Dieujuste
+@REDACTED=false
+@NAME=Lovinson dieujuste||Hidden
+@EMAIL=foxxydieujuste@gmail.com||fake@email.com
+@PHONE=(954) 376-0410||(555) 123-5555
+@LOCATION=Fort Lauderdale, FL 33312||City, State ZIP
+@LINKEDIN=https://www.linkedin.com/in/lovinson-dieujuste/||linkedin.com
+@GITHUB=https://github.com/Wisesofthemall||github.com
+@PORT=https://portfolio-omega-six-79.vercel.app/
 
-Fort Lauderdale, FL 33312 (Open to Remote) | foxxydieujuste@gmail.com
+# {NAME}
 
-LinkedIn: [https://www.linkedin.com/in/lovinson-dieujuste-231700222/](https://www.linkedin.com/in/lovinson-dieujuste-231700222/)
 
-GitHub: [https://github.com/Wisesofthemall](https://github.com/Wisesofthemall)
+{LOCATION} (Open to Remote) | {PHONE} | {EMAIL} 
 
----
+[Linkedin](https://www.linkedin.com/in/lovinson-dieujuste/)| [Github](https://github.com/Wisesofthemall) | [Portfolio](https://portfolio-omega-six-79.vercel.app/)
 
+<div className="vertical-spacer"></div>
 
 ## Technical Skills
-**Front End**: React, NextJS, JavaScript, TypeScript, NodeJS, CSS, styled-components, Redux, C#, Python
 
-**Back End**: PostgreSQL, MongoDB, MySQL, Next.js, Node.js, Express
+**Front End** | React , NextJS , ViteJS, Javascript , TypeScript , CSS , Redux
 
-**Testing/Deployment**: Jest, Mocha, Chai, Heroku, Vercel.js, AWS
+**Back End** | PostgreSQL , MongoDB , MySQL , Supabase, Node.js , Express, C#, Python, Prisma
 
-**Developer Tools**: Git, npm, Webpack, Babel, Next.js
+**Testing/Deployment** | Jest , Mocha , Chai , Heroku , Vercel.js , AWS
 
-**Technologies**: Unity, Next.js, NextAuth.js, Firebase, JWT, ChakraUI, Socket.io
+**Developer Tools** |  Git , npm , Webpack , Babel 
 
----
+**Technologies** | Unity , NextAuth.js , Firebase , Jwt , ChakraUI , Socket.io, Cloudinary
 
-## Experience & Projects
+<div className="vertical-spacer"></div>
 
-### Netfix Clone [Netfloo](https://github.com/Wisesofthemall/Netfloo-2.0)
-**April 2023 - May 2023**
+## Projects
 
-Netfloo is a full-stack web app where you can watch trailers of your favorite movies.
+### Full Stack Engineer |  [Netfloo](https://github.com/Wisesofthemall/Netfloo-2.0)<span class="spacer"></span>Apr 2023 - May 2023
 
-- Successfully optimizing page load times by using  multiple useMemo hooks, resulting in a 30% decrease in website abandonment.
-- Enhancing account security with Firebase's robust authentication protocols, leading to a 30% decrease in unauthorized access attempts.
-- Highly efficient store/caching system using MongoDB and Redis that reduce the amount of repeated API calls by 90% 
+*Full stack web-app where you can watch trailers of your favorite movies*<span class="spacer"></span>Javascript |  Express | MongoDB | Firebase | Redux | TailwindCSS | React | Redis
 
-### War of Liberty [Mobile App](https://play.google.com/store/apps/details?id=com.war.liberty.game&hl=en_US&gl=US)
-**Dec 2021 - Feb 2022**
+- Successfully optimized page load times by using multiple useMemo hooks, resulting in a 30% decrease in website abandonment
+- Enhanced account security with Firebase's robust authentication protocols, leading to a 30% decrease in unauthorized access attempts
+- Highly efficient store/caching system using MongoDB & Redis that reduced the amount of repeated API calls by 99% 
 
-War of Liberty is a 2D multiplayer shooting game deployed on the Google Play Store.
 
-- The mobile app was successfully deployed on the Google Play Store, reaching a wide audience of gamers, also having ads using Google Admob and expanded downloads by 200% in the year 2023 by strengthening the performance of the game 
-- Integrating seamless matchmaking and lobby systems, resulting in a 27% decrease in wait times for players and enhancing the overall multiplayer experience.
--  Upgraded performance in the game by leveraging C#’s best industry practices which boost user retention by 300%
 
-### Chattr [Project](https://github.com/Wisesofthemall/Chattr)
-**May 2023 - May 2023**
+<div className="vertical-spacer"></div>
 
-Chattr is a real-time chat application that allows users to communicate with each other seamlessly and interactively.
+### Mobile Game Developer | [War of Liberty](https://play.google.com/store/apps/details?id=com.war.liberty.game&hl=en_US&gl=US) <span class="spacer"></span>Dec 2021 - Feb 2022
 
-- Harnessing the best practices of Socket.io enables users to have instant conversations without the need to refresh the page,  In order to maintain a fluid and engaging chat experience. Increased speed by 145%
-- Implementing efficient data transfer protocols, reducing network overhead by 30% and optimizing bandwidth usage.
-- Providing technical expertise and guidance during product planning and roadmap discussions, ensuring that technical solutions align with the product vision and goals, resulting in a 15% increase in overall product success rate.
+*A 2D Multiplayer shooting game that is deploy on the google play store* <span class="spacer"></span> C# | Unity
 
-### FEC Zephyr [Project](https://github.com/Rpp2210-FEC-Zephyr/FEC-Retail-Store)
-**2020-2021**
+- Deployed mobile app on Google Play Store, reaching a wide audience of gamers, by utilizing Google Admob and also expanded downloads by 200% in the year 2023 by strengthening the performance of the game
+- Integrated seamless matchmaking and lobby systems by using Unity's assets, resulting in a 27% decrease in wait times for players and enhancing the overall multiplayer experience
 
-FEC Zephyr is a single-page e-commerce website.
+- Upgraded performance in the game by optimizing meshes and props in Unity which boosted user retention by 40%
 
--  Simplifying review forms and reducing required fields removed friction from the review process, resulting in users posting 50% more reviews and fostering a vibrant community centered around user-generated product feedback.
-- Improved web page quality by enabling text compression through Brotli and React Lazy Load, increasing Google Lighthouse performance by 132%
-- Efficient tracking of user interactions across multiple components, enabling data-driven decision-making and a 30% increase in user experience optimization.
 
----
+<div className="vertical-spacer"></div>
 
+### Software Engineer | [Chattr](https://github.com/Wisesofthemall/Chattr)<span class="spacer"></span>May 2023 - May 2023
+
+*A real-time chat application that allows users to communicate with each other in a seamless and interactive way* <span class="spacer"></span>  JavaScript | React | Socket.io | MongoDB | Express | Node.js | JWT | TailwindCSS | Heroku
+
+- Harnessed Socket.io best practices which enables users to have instant conversations without the need to refresh the page, increasing the response time by 145%
+- Enhanced database performance significantly by utilizing native MongoDB functions, effectively mitigating connection overload issues and leading to a remarkable 60% improvement in query speed.
+- Implemented JSON Web Tokens (JWT) to enhance data security by encrypting user passwords, effectively fortifying the integrity of user data, and doubling the level of protection for our users' information.
+<div className="vertical-spacer"></div>
+
+### Software Engineer | [Filmzee](https://filmzee.vercel.app/) <span class="spacer"></span> Feb 2023- Apr 2023
+
+*A real-time chat and filmz posting application* <span class="spacer"></span> Next.js | Typescript | Firebase | Supabase | Cloudinary | Vercel
+
+- Implemented Firebase Authentication for Single Sign-On using Google and GitHub, significantly reducing signup friction. As a result, user account creation saw a remarkable 60% increase.
+- Enhanced message sending efficiency by leveraging the Native Firebase function 'where,' resulting in a notable 130% improvement in speed.
+- Leveraged Cloudinary for swift and efficient image storage, alleviating the burden of image processing and reducing development time by 15%.
+
+
+<div className="vertical-spacer"></div>
+
+<!-- Move this section above Technical Skills if you're a student/new grad -->
 ## Education
 
-**Hackreactor** - Certification of completion, July 2023
+**Hackreactor** - Advanced Software Engineering Certificate<span class="spacer"></span>  2023
+
+**University of Tampa** - B.S Computer Science<span class="spacer"></span>  2026
+
