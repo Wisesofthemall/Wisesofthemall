@@ -1,11 +1,4 @@
-@REDACTED=false
-]
-@EMAIL=foxxydieujuste@gmail.com||fake@email.com
-@PHONE=(954) 376-0410||(555) 123-5555
-@LOCATION=Fort Lauderdale, FL 33312||City, State ZIP
-@LINKEDIN=https://www.linkedin.com/in/lovinson-dieujuste/||linkedin.com
-@GITHUB=https://github.com/Wisesofthemall||github.com
-@PORT=https://portfolio-omega-six-79.vercel.app/
+
 
 # Lovinson dieujuste
 
