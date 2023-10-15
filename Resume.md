@@ -1,5 +1,5 @@
 @REDACTED=false
-@NAME=Lovinson dieujuste||Hidden
+]
 @EMAIL=foxxydieujuste@gmail.com||fake@email.com
 @PHONE=(954) 376-0410||(555) 123-5555
 @LOCATION=Fort Lauderdale, FL 33312||City, State ZIP
@@ -7,10 +7,10 @@
 @GITHUB=https://github.com/Wisesofthemall||github.com
 @PORT=https://portfolio-omega-six-79.vercel.app/
 
-# {NAME}
+# Lovinson dieujuste
 
 
-{LOCATION} (Open to Remote) | {PHONE} | {EMAIL} 
+Fort Lauderdale, FL 33312 (Open to Remote) | {PHONE} | foxxydieujuste@gmail.com
 
 [Linkedin](https://www.linkedin.com/in/lovinson-dieujuste/)| [Github](https://github.com/Wisesofthemall) | [Portfolio](https://portfolio-omega-six-79.vercel.app/)
 
