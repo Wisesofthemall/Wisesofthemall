@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Staybnb](https://github.com/Wisesofthemall/Staybnb)
+- 🔭 I’m currently working on [Filmzee](https://github.com/Wisesofthemall/Filmzee)
 
-- 🌱 I’m currently learning **Prisma**
+- 🌱 I’m currently learning **AWS Infrastructure **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Wisesofthemall](https://github.com/Wisesofthemall)
 
