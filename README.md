@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Filmzee](https://github.com/Wisesofthemall/Filmzee)
 
-- 🌱 I’m currently learning **AWS Infrastructure **
+- 🌱 I’m currently learning Golang
 
 - 👨‍💻 All of my projects are available at [https://github.com/Wisesofthemall](https://github.com/Wisesofthemall)
 
