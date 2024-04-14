@@ -20,7 +20,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lovinson-dieujuste-231700222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lovinson-dieujuste-231700222" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lovinsondieujuste" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lovinsondieujuste" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
