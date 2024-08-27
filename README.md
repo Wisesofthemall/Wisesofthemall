@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Wisesofthemall](https://github.com/Wisesofthemall)
 
-- 📫 How to reach me **foxxydieujuste@gmail.com**
+- 📫 How to reach me **lovinson.dieujuste.tech@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://lovinsonresume.web.app/Lovinson%20Resume.pdf)
 
