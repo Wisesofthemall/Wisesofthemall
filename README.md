@@ -121,10 +121,7 @@
 </div>
 
 ###
- <img
-        src="https://leetcard.jacoblin.cool/LovinsonDieujuste?ext=heatmap"
-        class="image"
-      />
+
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Wisesofthemall&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="wisesofthemall" /></p>
     <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Wisesofthemall&theme=tokyonight&hide_border=false" alt="wisesofthemall" /></p>
@@ -137,3 +134,7 @@
 
 ![github-user-contribution](https://github.com/user-attachments/assets/0c3f5997-39bf-4428-bcd3-9162deab83e5)
 <svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
+ <img
+        src="https://leetcode.lovinsonleetcode.workers.dev/LovinsonDieujuste?ext=all"
+        class="image"
+      />
