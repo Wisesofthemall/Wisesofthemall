@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 📄 Know about my experiences [Resume](https://lovinsonresume.web.app/Lovinson%20Resume.pdf)
+  
 - 🔭 I’m currently working on [Filmzee](https://github.com/Wisesofthemall/Filmzee)
 
 - 🌱 I’m currently learning Golang
 
-- 👨‍💻 All of my projects are available at [https://github.com/Wisesofthemall](https://github.com/Wisesofthemall)
-
 - 📫 How to reach me **lovinson.dieujuste.tech@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://lovinsonresume.web.app/Lovinson%20Resume.pdf)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
