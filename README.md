@@ -121,7 +121,10 @@
 </div>
 
 ###
-![LeetCode Stats](https://leetcode.card.workers.dev/LovinsonDieujuste?theme=auto&font=baloo&extension=null)
+ <img
+        src="https://leetcard.jacoblin.cool/LovinsonDieujuste?ext=heatmap"
+        class="image"
+      />
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Wisesofthemall&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="wisesofthemall" /></p>
     <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Wisesofthemall&theme=tokyonight&hide_border=false" alt="wisesofthemall" /></p>
