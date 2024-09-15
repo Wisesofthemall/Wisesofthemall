@@ -105,10 +105,6 @@
 <p align="left">Tools/Technologies</p>
 
 ###
- <img
-        src="https://leetcode.lovinsonleetcode.workers.dev/LovinsonDieujuste?ext=all"
-        class="image"
-      />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -125,6 +121,11 @@
 </div>
 
 ###
+
+ <img
+        src="https://leetcode.lovinsonleetcode.workers.dev/LovinsonDieujuste?ext=all"
+        class="image"
+      />
 
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Wisesofthemall&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="wisesofthemall" /></p>
