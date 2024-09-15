@@ -123,7 +123,7 @@
 ###
 
  <img
-        src="https://leetcode.lovinsonleetcode.workers.dev/LovinsonDieujuste?ext=all"
+        src="https://leetcode.lovinsonleetcode.workers.dev/LovinsonDieujuste?ext=all&theme=dark"
         class="image"
       />
 
