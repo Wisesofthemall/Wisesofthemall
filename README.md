@@ -105,6 +105,10 @@
 <p align="left">Tools/Technologies</p>
 
 ###
+ <img
+        src="https://leetcode.lovinsonleetcode.workers.dev/LovinsonDieujuste?ext=all"
+        class="image"
+      />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -134,7 +138,4 @@
 
 ![github-user-contribution](https://github.com/user-attachments/assets/0c3f5997-39bf-4428-bcd3-9162deab83e5)
 <svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
- <img
-        src="https://leetcode.lovinsonleetcode.workers.dev/LovinsonDieujuste?ext=all"
-        class="image"
-      />
+
