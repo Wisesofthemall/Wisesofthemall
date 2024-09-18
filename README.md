@@ -122,10 +122,12 @@
 
 ###
 
- <img
-        src="https://leetcode.lovinsonleetcode.workers.dev/LovinsonDieujuste?ext=all&theme=dark"
-        class="image"
-      />
+ <a href="https://leetcode.com/u/LovinsonDieujuste/" target="_blank">
+  <img
+    src="https://leetcode.lovinsonleetcode.workers.dev/LovinsonDieujuste?ext=all&theme=dark"
+    alt="LeetCode Profile"
+  />
+</a>
 
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Wisesofthemall&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false" alt="wisesofthemall" /></p>
