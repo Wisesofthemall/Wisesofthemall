@@ -13,7 +13,7 @@
   
 - 🔭 I’m currently working on [Filmzee](https://github.com/Wisesofthemall/Filmzee)
 
-- 🌱 I’m currently learning Leetcode 🙂
+- 🌱 I’m currently learning Graph Theory 🕸️ 
 
 - 📫 How to reach me **lovinson.dieujuste.tech@gmail.com**
 
