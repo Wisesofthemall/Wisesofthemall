@@ -130,7 +130,7 @@
 </a>
 
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Wisesofthemall&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false" alt="wisesofthemall" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Wisesofthemall&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="wisesofthemall" /></p>
     <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Wisesofthemall&theme=holi-theme&hide_border=false" alt="wisesofthemall" /></p>
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wisesofthemall&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="wisesofthemall" /></p>
      <p><img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=Wisesofthemall&theme=react-dark" alt="wisesofthemall" /></p>
