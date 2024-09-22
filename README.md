@@ -7,6 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wisesofthemall&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="wisesofthemall" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<p align="center"> Sophomore @ Florida Agricultural and Mechanical University 🐍🧡 </p>
+
 - 📄 Know about my experiences [Resume](https://lovinsonresume.web.app/Lovinson%20Resume.pdf)
   
 - 🔭 I’m currently working on [Filmzee](https://github.com/Wisesofthemall/Filmzee)
