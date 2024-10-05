@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [Resume](https://lovinsonresume.web.app/Lovinson%20Resume.pdf)
   
-- 🔭 I’m currently working on [Filmzee](https://github.com/Wisesofthemall/Filmzee)
+- 🔭 I’m currently working on [Oyster🦪](https://github.com/colorstackorg/oyster)
 
 - 🌱 I’m currently learning Graph Theory 🕸️ 
 
