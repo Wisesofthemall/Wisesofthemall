@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lovinson Dieujuste</h1>
-<h3 align="center">Software Engineer & Site Reliability Engineer</h3>
+<h3 align="center">Software Engineer & Distributed Systems Engineer</h3>
 
 
 
