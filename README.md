@@ -126,7 +126,7 @@
 
  <a href="https://leetcode.com/u/LovinsonDieujuste/" target="_blank">
   <img
-    src="https://leetcard.jacoblin.cool/LovinsonDieujuste?theme=dark&font=ABeeZee&ext=contest"
+    src="https://leetcard.jacoblin.cool/LovinsonDieujuste?theme=catppuccinMocha&font=Bakbak%20One&ext=contest"
     alt="LeetCode Profile"
   />
 </a>
